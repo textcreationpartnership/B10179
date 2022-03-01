@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The tryal and condemnation together with thee [sic] execution of Capt. Ashtoun for high-treason in conspiring the dethroning of Their Majesties and the landing of a French army in England, trayed January the 19.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10179</idno>
+            <idno type="STC">Wing T2159</idno>
+            <idno type="STC">ESTC R217943</idno>
+            <idno type="EEBO-CITATION">61297165</idno>
+            <idno type="OCLC">ocm 61297165</idno>
+            <idno type="VID">180675</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B10179)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180675)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2840:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The tryal and condemnation together with thee [sic] execution of Capt. Ashtoun for high-treason in conspiring the dethroning of Their Majesties and the landing of a French army in England, trayed January the 19.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Printed at London, and re-printed at Edinburgh :</pubPlace>
+                  <date>Anno. Dom. 1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ashton, John, d. 1691 --  Trials, litigation, etc.</term>
+               <term>England and Wales. --  Sovereign (1685-1688 : James II)</term>
+               <term>England and Wales. --  Sovereign (1689-1694 : William and Mary)</term>
+               <term>Trials (treason) --  England --  Early works to 1800.</term>
+               <term>Broadsides --  Engalnd --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:180675:1" rendition="simple:additions"/>
+            <head>THE TRYAL AND CONDEMNATION, Together with thee EXECUTION OF C<hi rend="sup">Apt.</hi> ASHTOUN FOR HIGH-TREASON, In Conſpiring the Dethroning of Their Majeſties, and the Landing of a French Army in <hi>England.</hi> Trayed <hi>January</hi> the 19.</head>
+            <p>THe unſatisfied World being now Curious to be Informed of the Truth of the Plot, (wherein they have doubted of for ſome time) let them but peruſe this ſmall Scheme of this Perſons Tryal, and conſider the few Quo<g ref="char:EOLhyphen"/>tations, con<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ained in the Letters found about his Perſon at the time of his Seaſure. Cnd then they need not any longer doubt the Truth of of the Conſpiracy againſt the Peace and Tranquillity of Their Majeſties Government in theſe Kingdoms, whom God hath appointed Them to Rule over.</p>
+            <p>The Priſoner being brought to the Bar, and the Jury being Impanelled, the Court proceeded to have the Indictment read, which were words much to the Effect follow<g ref="char:EOLhyphen"/>ing, <hi>viz.</hi>
+            </p>
+            <p>
+               <q>THat the Priſoner not having the Fear of God before his Eyes, did in and between the laſt <hi>September,</hi> moſt Traiterouſly and Maliciouſly Conſpire the Dethroning Their Majeſties, the Subverſion of the Government, and the Total overthrowing of the Proteſtant Religion; by keeping Correſpondence by Lerters frequently with the late King <hi>James:</hi> And the Introducing of a <hi>French</hi> Army to be Landed in <hi>England</hi> and <hi>Scotland;</hi> together with his wicked Advice expreſſed in Letters of his own Hand Writing to the <hi>French</hi> Court, for the Deſtruction of our Fleet in our own Channel.</q>
+            </p>
+            <p>The Priſoner being deſired to plead to his Indictment, he pleaded not Guilty; and ſo the Court went on to the proof of it.</p>
+            <p>The Attorney General opened the Caſe very clearly, in order to the Courts going on in the Tryal.</p>
+            <p>The next who ſpoke was one of the Kings Learned Council in the Law, laying the matter of Fact fully home to the Priſoner at the Bar, in all its ſeveral Branches, accord-to the Nature of the Crime.</p>
+            <pb facs="tcp:180675:2"/>
+            <p> The firſt thing which was produced againſt him in Court, were Letters of his o<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Hand-Writing; which were taken on him when he was apprehended by Captain <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>lups</hi> and committed to Priſon.</p>
+            <p>Cap<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>in <hi>Billups</hi> being called into Court and Examined, whether theſe were the L<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ters that he took on the Priſoner when he ſeazed him, who gave the Court a great d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of ſatisfaction as to the Truth of the matter, that they were the very Letters.</p>
+            <p>Whereupon they proceeded to the reading of them in open Court, wherein w<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> contained theſe Treaſons among others.</p>
+            <list>
+               <item>1ſt. <hi>That it would be convenient for the</hi> French <hi>Fleet to come into our Channel, <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> prevent the</hi> Dutch <hi>Fleet from joyning ours.</hi>
+               </item>
+               <item>2dly. <hi>That the late Kings Friends Encreaſed, and had Advanced a conſidera<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ſum of Money to pay his Army when raiſed.</hi>
+               </item>
+               <item>3dly. <hi>That the City of</hi> London <hi>was not ſo much for his Intereſt as might be wiſ<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> they were.</hi>
+               </item>
+               <item>4thly. <hi>That it would be neceſsary to ſend</hi> 6000 <hi>Men into</hi> Scotland, <hi>to keep the<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> buſie.</hi>
+               </item>
+            </list>
+            <p>There was a great deal of more Evidence produced in Court, too long here to be <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſerted, this being ſufficient to ſatisfie any reaſonable perſon as to the juſtneſs of his Se<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tence, and the Legality of the Tryal.</p>
+            <p>Then the Lord Chief Juſtice gave the Charge to the Jury, in a Diſcourſe touchi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Nature of the Treaſons laid to the Priſoners charge, as to the evil that might have e<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſued, if his Deſigns had taken effect.</p>
+            <p>The Jury withdrew for ſome time, and then returning, brought in the Priſoner G<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ty of High-Treaſon.</p>
+            <p>After ſome few queſtions ask'd the Priſoner, who gave no ſatisfactory anſwer t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> what was demanded of him. The Court w<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt on to give Sentence, which was acco<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ingly done in the words following.</p>
+            <p>
+               <hi>That you ſhall return to the place from whence you came, from thence to be draw<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> upon a Hurdle to the place of Execution, and there to be Hanged up by the Neck, an<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to be cut down Alive, and your Privy-Members to be cut off and Burnt before yo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Face; and your Quarters to be Diſpoſed of as Their Majesties ſhall think fit, and th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lord have Mercy on your Soul.</hi>
+            </p>
+            <p>On <hi>January</hi> the 28. Captain <hi>Aſhtoun</hi> was drawn upon a Hurdle to the place <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Execution, and there Hanged, his Friends having beged his Body in order to its I<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>terment,</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>London,</hi> and Re-printed at <hi>Edinburgh, Anno, Dom.</hi> 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
